@@ -1,8 +1,5 @@
 # boonmeemira.github.io
 boonmee
-
-# Thanet Chomsri 
-
 ## 🎓 Education
 + Information Technology (ปี 4)
 + Institute of Vocational Education : Central Region 5
@@ -15,5 +12,5 @@ boonmee
 ---
 
 ## 📫 Contact
-- Email: got46483@gmail.com  
-- Facebook: [Thanet Chomsri](https://www.facebook.com/thanet.chomsri.2024/)
+- Email: hhaeng33333@gmail.com  
+- Facebook: [Thanet Chomsri](https://web.facebook.com/mira123k/?locale=th_TH/)
