@@ -1,7 +1,7 @@
 ---
 ---
 
-@import url(); "{{ site.theme }}";
+@import "{{ site.theme }}";
 
 body {
   background-color: #F5F0EA;
