@@ -1,3 +1,7 @@
 title: Boonmee 
-
-theme: jekyll-theme-midnight
+description: "Simple. Warm. Elegant."
+theme: minima
+url: "https://mira.github.io"
+author: Mira
+sass:
+  style: compressed
