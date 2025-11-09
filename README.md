@@ -7,7 +7,7 @@ boonmee
 ---
 
 ## 🧠 Skills
-- [Cybersecurity Fundamentals](/img/got-Cybersecurity-Fundamentals-Cybersecurity-Fundamentals-APNIC-Academy.pdf)
+- [Cybersecurity Fundamentals](/img/boonmee-Cybersecurity-Fundamentals-Cybersecurity-Fundamentals-APNIC-Academy.pdf)
 
 ---
 
