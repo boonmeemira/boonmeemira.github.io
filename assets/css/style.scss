@@ -1,0 +1,23 @@
+---
+---
+
+@import url(); "{{ site.theme }}";
+
+body {
+  background-color: #F5F0EA;
+  color: #3E2723;
+  font-family: 'Nunito', sans-serif;
+}
+
+a {
+  color: #8B5E3C;
+}
+
+a:hover {
+  color: #A97B50;
+}
+
+header, footer {
+  background-color: #C49E78;
+  color: white;
+}
