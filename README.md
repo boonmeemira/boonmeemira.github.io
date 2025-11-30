@@ -17,5 +17,5 @@
 ---
 
 ## 📫 Contact
-> **Email:** hhaeng33333@gmail.com  
-> **Facebook:** (https://www.facebook.com/mira123k/?locale=th_TH)
+- Email: hhaeng33333@gmail.com  
+- Facebook: [Mira Boonmee](https://web.facebook.com/mira123k/?locale=th_TH/)
