@@ -1,7 +1,8 @@
-title: Boonmee 
+title: "Boonmee"
 description: "Simple. Warm. Elegant."
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-cayman
 url: "https://mira.github.io"
-author: Mira
+author: "Mira"
+
 sass:
   style: compressed
