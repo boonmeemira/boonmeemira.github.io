@@ -1,5 +1,5 @@
 # boonmeemira.github.io
-+ [BGP speaker](BGP speaker)
++ [BGP-speaker](BGP-speaker)
 + [CPU](CPU)
 + [Dig](Dig)
 
