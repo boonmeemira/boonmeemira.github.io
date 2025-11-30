@@ -8,7 +8,7 @@
 ## 🎓 Education
 > **Information Technology (ปี 4)**  
 > Institute of Vocational Education : Central Region 5
-
+> - [photo](!)
 ---
 
 ## 🧠 Skills
