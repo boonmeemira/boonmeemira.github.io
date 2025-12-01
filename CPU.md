@@ -1,4 +1,4 @@
-CPU
+CPU.
 
 The logic circuitry that responds to instructions and runs the computer. Also called a processor.
 
