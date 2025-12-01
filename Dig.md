@@ -1,5 +1,7 @@
 Dig
 
+Dig is the Linux preferred tool for testing name resolution. Dig resolves (looks up) the IP address of a host name. Displays other name resolution-related information such as the DNS server used for the lookup request.
+
 GPT : Dig เป็นเครื่องมือที่นิยมใช้บน Linux สำหรับทดสอบการแก้ไขชื่อ (name resolution) โดย Dig จะทำการแก้ไข (ค้นหา) ที่อยู่ IP ของชื่อโฮสต์ และแสดงข้อมูลอื่น ๆ ที่เกี่ยวข้องกับการแก้ไขชื่อ เช่น เซิร์ฟเวอร์ DNS ที่ถูกใช้สำหรับคำขอค้นหา
 
 Gemini : Dig เป็นเครื่องมือที่นิยมใช้ในระบบ Linux สำหรับทดสอบการแปลงชื่อ (name resolution) Dig ทำหน้าที่แปลง (ค้นหา) ที่อยู่ IP ของชื่อโฮสต์ (host name) และยังแสดงข้อมูลอื่นที่เกี่ยวข้องกับการแปลงชื่อ เช่น เซิร์ฟเวอร์ DNS ที่ใช้สำหรับคำขอค้นหานั้นด้วย
