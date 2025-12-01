@@ -1,5 +1,7 @@
 CPU
 
+The logic circuitry that responds to instructions and runs the computer. Also called a processor.
+
 GPT: วงจรตรรกะที่ตอบสนองต่อคำสั่งและทำให้คอมพิวเตอร์ทำงานได้ เรียกอีกอย่างว่า ‘โปรเซสเซอร์’
 
 gemini :"วงจรตรรกะที่ตอบสนองต่อคำสั่งต่างๆ และเป็นตัวขับเคลื่อนการทำงานของคอมพิวเตอร์ ซึ่งเราเรียกมันอีกชื่อหนึ่งว่า 'หน่วยประมวลผล' (Processor)"
