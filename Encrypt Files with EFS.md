@@ -17,5 +17,5 @@
 
 ![cf](4.jpg)
 
-เปิด File Explorer
+1. เปิด File Explorer
 
