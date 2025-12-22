@@ -27,3 +27,17 @@
 
 ![cf](5.jpg)
 4. เลือก Properties
+
+![cf](6.jpg)
+![cf](7.jpg)
+![cf](8.jpg)
+![cf](9.jpg)
+![cf](10.jpg)
+![cf](11.jpg)
+![cf](12.jpg)
+![cf](13.jpg)
+![cf](14.jpg)
+![cf](15.jpg)
+![cf](16.jpg)
+![cf](17.jpg)
+
