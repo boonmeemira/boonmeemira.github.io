@@ -57,14 +57,14 @@
 ต้องเพิ่ม Encryption Certificate ของ John ให้กับไฟล์นี้
 
 ![cf](11.jpg)
-12. ไปที่ไฟล์ D:\Finances\2023report.xls คลิกขวาที่ไฟล์ → Properties
+11. ไปที่ไฟล์ D:\Finances\2023report.xls คลิกขวาที่ไฟล์ → Properties
    
 
 ![cf](13.jpg)
-13. กด Advanced…
+12. กด Advanced…
 
 ![cf](14.jpg)
-14. กดปุ่ม Details
+13. กดปุ่ม Details
 
 ![cf](15.jpg)
 14. กด Add…
@@ -73,7 +73,7 @@
 15. เลือกผู้ใช้ John
 
 ![cf](16.jpg)
-กด OK  และ OK ทุกหน้าต่างจนปิดหมด
+16.กด OK  และ OK ทุกหน้าต่างจนปิดหมด
 
 ![cf](17.jpg)
 ✅ ตอนนี้ John สามารถเปิดไฟล์ 2023report.xls ได้ แม้ไฟล์จะถูกเข้ารหัส
