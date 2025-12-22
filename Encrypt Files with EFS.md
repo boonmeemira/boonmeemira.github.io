@@ -24,10 +24,10 @@
 ![cf](3.jpg)
 2. ไปที่ไดรฟ์ D:\
 
-![cf](18.jpg)
+![cf](14.jpg)
 3. คลิกขวาที่โฟลเดอร์ Finances
 
-![cf](4.jpg)
+![cf](18.jpg)
 4. เลือก Properties
 
 ![cf](5.jpg)
