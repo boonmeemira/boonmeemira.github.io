@@ -56,25 +56,25 @@
 
 ต้องเพิ่ม Encryption Certificate ของ John ให้กับไฟล์นี้
 
-![cf](11.jpg)
+![cf](12.jpg)
 12. ไปที่ไฟล์ D:\Finances\2023report.xls
    
-![cf](12.jpg)
+![cf](13.jpg)
 11. คลิกขวาที่ไฟล์ → Properties
 
-![cf](13.jpg)
+![cf](14.jpg)
 13. กด Advanced…
 
-![cf](14.jpg)
+![cf](15.jpg)
 14. กดปุ่ม Details
 
-![cf](15.jpg)
+![cf](16.jpg)
 14. กด Add…
 
-![cf](16.jpg)
+![cf](17.jpg)
 15. เลือกผู้ใช้ John
 
-![cf](17.jpg)
+![cf](1.jpg)
 กด OK 
 
 ![cf](16.jpg)
