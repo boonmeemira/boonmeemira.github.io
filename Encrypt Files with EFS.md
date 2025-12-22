@@ -21,7 +21,7 @@
 
 1. เปิด File Explorer
 
-![cf](3.jpg)
+![cf](1.jpg)
 2. ไปที่ไดรฟ์ D:\
 
 ![cf](18.jpg)
