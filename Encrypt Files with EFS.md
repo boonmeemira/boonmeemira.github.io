@@ -57,10 +57,8 @@
 ต้องเพิ่ม Encryption Certificate ของ John ให้กับไฟล์นี้
 
 ![cf](11.jpg)
-12. ไปที่ไฟล์ D:\Finances\2023report.xls
+12. ไปที่ไฟล์ D:\Finances\2023report.xls คลิกขวาที่ไฟล์ → Properties
    
-![cf](12.jpg)
-11. คลิกขวาที่ไฟล์ → Properties
 
 ![cf](13.jpg)
 13. กด Advanced…
