@@ -33,7 +33,7 @@
 ![cf](5.jpg)
 5. กดปุ่ม Advanced…
 
-![cf](6.jpg)
+![cf](7.jpg)
 6. ติ๊ก ✔️ Encrypt contents to secure data
 
 ![cf](7.jpg)
