@@ -24,3 +24,6 @@
 
 ![cf](4.jpg)
 3. คลิกขวาที่โฟลเดอร์ Finances
+
+![cf](5.jpg)
+4. เลือก Properties
