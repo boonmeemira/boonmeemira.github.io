@@ -1,4 +1,4 @@
-**[<< ย้อนกลับ]( https://boonmeemira.github.io)
+( https://boonmeemira.github.io)
 
 # Gemini-Educator.md
 
