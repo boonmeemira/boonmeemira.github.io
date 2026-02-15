@@ -1,4 +1,4 @@
-**[⬅️ ย้อนกลับ](boonmeemira.github.io)
+**(boonmeemira.github.io)
 
 # 🎉 Happy New Year 2026 🎆
 
