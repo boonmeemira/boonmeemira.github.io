@@ -1,4 +1,4 @@
 # Gemini-Faculty.md
 
- ![cf](Gemini-Faculty.jpg)
+ ![cf](Gemini Faculty.jpg)
 
