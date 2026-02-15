@@ -1,4 +1,4 @@
-(https://boonmeemira.github.io/)
+(Gemini-Educator.md)
 
 
 # Gemini-Educator
