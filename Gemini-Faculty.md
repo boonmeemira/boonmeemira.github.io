@@ -1,7 +1,6 @@
-(https://boonmeemira.github.io/)
+# Gemini-Faculty.md
 
 
-# Gemini-Faculty
 
  ![cf](Faculty.jpg)
 
