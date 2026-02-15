@@ -38,7 +38,7 @@
 ---
 
 ## Gemini 
-> - [Gemini-Faculty] ()
-> - [Gemini-Educator] ()
+> - [Gemini Faculty] ()
+> - [Gemini Educator] ()
 > - 
 
