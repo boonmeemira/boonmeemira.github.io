@@ -38,7 +38,7 @@
 ---
 
 ## Gemini 
-> - [Gemini-Faculty](https://boonmeemira.github.io)
-> - [Gemini-Educator](https://boonmeemira.github.io)
+> - [Gemini-Faculty](https://boonmeemira.github.io/Gemini-Faculty.html)
+> - [Gemini-Educator](https://boonmeemira.github.io/Gemini-Educator.html)
 > - 
 
