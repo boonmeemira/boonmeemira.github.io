@@ -3,4 +3,4 @@
 
 # Gemini-Educator
 
- ![cf](วันปีใหม่.png)
+ ![cf](Educator.jpg)
