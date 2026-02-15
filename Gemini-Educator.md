@@ -1,2 +1,2 @@
-# (Gemini-Educator.md)
+# Gemini-Educator.md
  ![cf](Educator.jpg)
