@@ -31,5 +31,6 @@
   
 ---
 
-## 🎉 Happy New Year 🎉
-![cf](วันปีใหม่.png)
+
+## 🎉 Happy New Year 2026 🎆
+> - [HappyNewyear](https://boonmeemira.github.io/)
