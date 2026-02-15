@@ -1,6 +1,2 @@
-(Gemini-Educator.md)
-
-
-# Gemini-Educator
-
+# (Gemini-Educator.md)
  ![cf](Educator.jpg)
