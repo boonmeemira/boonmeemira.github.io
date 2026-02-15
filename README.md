@@ -34,3 +34,11 @@
 
 ## 🎉 Happy New Year 2026 🎆
 > - [Happy-New-Year](Happy-New-Year.md)
+
+---
+
+## Gemini 
+> - [Gemini-Faculty] ()
+> - [Gemini-Educator] ()
+> - 
+
