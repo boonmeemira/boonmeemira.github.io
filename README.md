@@ -12,7 +12,7 @@
 
 ---
 ## Git Wrapped 2025.
-+[Git-Wrapped-2025](Git-Wrapped-2025.md)
++ [Git-Wrapped-2025](Git-Wrapped-2025.md)
 
 
 ---
