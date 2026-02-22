@@ -43,6 +43,9 @@
 
 ## Gemini 
 > - [Gemini-Faculty](https://boonmeemira.github.io/Gemini-Faculty.html)
-> - [Gemini-Educator](https://boonmeemira.github.io/Gemini-Educator.html)
-> - 
+> - [Gemini-Educator](https://boonmeemira.github.io/Gemini-Educator.html) 
 
+---
+
+## Networks
+> - [Networks1](Networks.md)
