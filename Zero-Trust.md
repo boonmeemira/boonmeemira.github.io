@@ -1,6 +1,6 @@
 ## 3️⃣ Networks
 
-![Networks Concept](3Networks.jpg)
+![Networks](Networks.jpg)
 
 *ตัวอย่างที่หนูใช้ในชีวิตประจำวันคือ*  
 การเชื่อมต่อ เช่น อินเทอร์เน็ตหรือเครือข่ายองค์กร
