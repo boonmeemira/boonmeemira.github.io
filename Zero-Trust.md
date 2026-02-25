@@ -10,6 +10,6 @@
 
 ### 📌 รูปตัวอย่างการใช้อินเทอร์เน็ตหรือเครือข่ายองค์กร
 
-![Networks Example](Networks.jpg)
+![Networks Example](internet.png)
 
 ---
