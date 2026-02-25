@@ -47,13 +47,11 @@
 
 ---
 
-## Networks
-
-
----
 
 ##  PDPA
  🔑 [PDPA](PDPA.md)
+ 
+---
 
 ## Zero Trust
  - [Zero-Trust.mdr](Zero-Trust.md)
