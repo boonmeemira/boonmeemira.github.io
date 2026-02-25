@@ -1,4 +1,4 @@
-## 3️⃣ Networks
+## 3️ Networks
 
 ![Networks1](Networks1.jpg)
 
