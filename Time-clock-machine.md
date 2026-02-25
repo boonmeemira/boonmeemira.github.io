@@ -1,6 +1,6 @@
 # 👆 เครื่องตอกบัตร
 
-![cf](N2.jpg) ****
+![cf](machine.jpg)
 
 ---
 ## ❓ เหตุผลที่จัดเป็น Preventive Control
