@@ -48,13 +48,13 @@
 ---
 
 ## Networks
-> - [Networks1](Zero-Trust.md)
->
+
 
 ---
 
 ##  PDPA
  🔑 [PDPA](PDPA.md)
 
-
+## Zero Trust
+ - [Zero-Trust.mdr](Zero-Trust.md)
  
